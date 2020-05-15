@@ -2,7 +2,7 @@
 
 count = 10
 while count >= 1 do
-  puts "got it"
+  puts count
   count +=
 end
 puts "Happy New Year!"
